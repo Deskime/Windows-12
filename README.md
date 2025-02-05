@@ -16,20 +16,6 @@
 ## ✨ Features
 
 ![Features](./features.png)
-<!--
-- **Custom Start Button** (For Windows 11 and 10 with regular taskbar)
-  <br><br>
-- **Custom Close / Minimise / Restore / Maximise Buttons**
-  <br><br>
-- **Custom Icon Pack**
-  <br><br>
-- **Custom Mouse Cursors**
-  <br><br>
-- **New File Explorer Look and New Tree-View**
-  <br><br>
-- **Dark Themed Notepad, Task Manager and Registry Editor (even in Windows 10!)**
-  <br><br>
-- **Supports the [Deskime Customization App](https://github.com/Deskime/Deskime_Customization)!!!🔥🔥**-->
 
 ---
 
