@@ -71,7 +71,7 @@ Finally, reboot your computer or restart `explorer.exe` from Task Manager to see
 - Ensure you have the latest version of the theme.
 - Verify that all the files are put into the `Themes` folder.
 <br><br>
-   For further assistance, please create an issue on the [GitHub repository](https://github.com/Deskime/Windows-12/issues) with detailed information about your problem, including the error message and a screenshot.
+   For further assistance, please create an issue on the [GitHub repository](https://github.com/Deskime/Windows_12/issues) with detailed information about your problem, including the error message and a screenshot.
 
 ---
 
@@ -102,7 +102,7 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 
 **IMPORTANT:** **THIS SOFTWARE IS A CONCEPTUAL THEME AND IS NOT AFFILIATED WITH, ENDORSED BY, OR IN ANY WAY CONNECTED TO MICROSOFT INC. OR ITS RELATED PROJECTS. USE AT YOUR OWN RISK, AND ENSURE YOU HAVE BACKUPS OF YOUR SYSTEM BEFORE APPLYING ANY MODIFICATIONS.**
 
-**THIS PROJECT IS LICENSED UNDER THE GNU GENERAL PUBLIC LICENSE v3.0. YOU ARE FREE TO MODIFY AND DISTRIBUTE THIS SOFTWARE AS LONG AS YOU KEEP THE SAME LICENSE.**
+**THIS PROJECT IS LICENSED UNDER THE GNU GENERAL PUBLIC LICENSE v3.0. YOU ARE FREE TO MODIFY AND DISTRIBUTE THIS SOFTWARE AS LONG AS YOU KEEP THE SAME LICENSE AND CREDIT THE CREATOR (HERE DESKIME).**
 
 **BY USING THIS THEME, YOU ACKNOWLEDGE THAT YOU UNDERSTAND AND ACCEPT THESE TERMS. ENJOY CUSTOMIZING YOUR WINDOWS EXPERIENCE!**
 
@@ -126,8 +126,4 @@ try {
 }
 ```
 <br><br>
-<<<<<<< HEAD
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://ko-fi.com/deskime)
-=======
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://ko-fi.com/deskime)
->>>>>>> c6df2d206d5344791702259087a277252b8ed946
