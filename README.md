@@ -17,7 +17,10 @@
 
 ![Features](./features.png)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c6df2d206d5344791702259087a277252b8ed946
 ---
 
 ## 📋 Setup
@@ -130,4 +133,8 @@ try {
 }
 ```
 <br><br>
+<<<<<<< HEAD
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://ko-fi.com/deskime)
+=======
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://ko-fi.com/deskime)
+>>>>>>> c6df2d206d5344791702259087a277252b8ed946
