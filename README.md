@@ -41,7 +41,7 @@
   - Again right-click on your taskbar, hover on `Toolbars` and click `New toolbar...`
   - Then navigate to `C:\Windows\Resources\Themes\Windows 12` and you should see a folder with a blank name ` `. Select that folder and add as the toolbar in your taskbar.
   - Now you should see a double bar `||` on the right half, towards the end of your taskbar. drag it to the left end until all the apps move to it's right. (the start button won't move to the right though.)
-  -  After this, adjust the other side to match your taskbar's centering.
+  -  After this, adjust the other side to match your taskbar centering.
   - Then, right-click on your taskbar and enable `Lock the taskbar`
   - After that, run the file `Windows 12-Center.theme` and wait. After 15-20 seconds, you should see your computer looks change.
   - Finally, reboot your computer or restart `explorer.exe` from Task Manager to see the icons changed.
@@ -50,9 +50,6 @@
 Run the file `Windows 12.theme` and wait. After 15-20 seconds, you should see your computer looks change.
 <br><br>
 Finally, reboot your computer or restart `explorer.exe` from Task Manager to see the icons changed.
-
-> [!CAUTION]
-> You may see an error "Cannot import .....\icon.reg: Not all data was successfully written to the registry". This error arises while changing the C: Icon. If the error persists, manually change this icon from the Registry Editor or create an issue and we will help you resolve this.
 
 ---
 
@@ -64,7 +61,7 @@ Finally, reboot your computer or restart `explorer.exe` from Task Manager to see
 - [Base Theme - Goon Theme by niivu]()
    <br><br>
 
-> [!WARNING]
+> [!CAUTION]
 > Remember to move all the required files and folders into the Themes folder, otherwise it won't work.
 
 ---
