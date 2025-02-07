@@ -53,13 +53,6 @@ Finally, reboot your computer or restart `explorer.exe` from Task Manager to see
 
 ---
 
-## SETUP DEMO FOR WINDOWS 10
-Use this video demo if reading the above is not your thing.
-
-<video src="https://github.com/rayytsn9/ROBOTT/assets/79029536/62f541aa-aa8c-43f5-9ead-4b7a2e0d7c2a" width="300" />
-
----
-
 ## 📃 References
 - [Windows 12 Background - Addy Visuals](https://www.youtube.com/watch?v=1k1vz9PD7O4&ab_channel=AddyVisuals)
 - [Windows 12 Start Icon - Icons8](https://icons8.com/icon/srWpsuip5wG0/windows-11)
