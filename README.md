@@ -84,7 +84,7 @@ Use this video demo if reading the above is not your thing.
 
 ## ✔ Additional tools
 
-- [Deskime Customization](https://github.com/Deskime/Deskime_Customization) (Highly Recommended!)
+- [![Deskime Cusromization App](https://github-readme-stats.vercel.app/api/pin/?username=deskime&repo=Deskime_Customization)](https://github.com/Deskime/Deskime_Customization)
 - [ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts)
 - [WindHawk](https://windhawk.net/)
 - [StartAllBack]() or [Explorer Patcher]()
