@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
 
-![Screenshot](./Banner.png)
+![Banner](./Banner.png)
 
 💪🏻 The Greatest, most Powerful version of Windows the world has ever seen
 <br><br>
@@ -50,6 +50,13 @@
 Run the file `Windows 12.theme` and wait. After 15-20 seconds, you should see your computer looks change.
 <br><br>
 Finally, reboot your computer or restart `explorer.exe` from Task Manager to see the icons changed.
+
+---
+
+## SETUP DEMO FOR WINDOWS 10
+Use this video demo if reading the above is not your thing.
+
+![Screenshot](./screenshot.png)
 
 ---
 
