@@ -56,7 +56,7 @@ Finally, reboot your computer or restart `explorer.exe` from Task Manager to see
 ## SETUP DEMO FOR WINDOWS 10
 Use this video demo if reading the above is not your thing.
 
-![Screenshot](./screenshot.png)
+<video src="https://github.com/rayytsn9/ROBOTT/assets/79029536/62f541aa-aa8c-43f5-9ead-4b7a2e0d7c2a" width="300" />
 
 ---
 
