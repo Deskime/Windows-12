@@ -71,7 +71,7 @@ Finally, reboot your computer or restart `explorer.exe` from Task Manager to see
 - Ensure you have the latest version of the theme.
 - Verify that all the files are put into the `Themes` folder.
 <br><br>
-   For further assistance, please create an issue on the [GitHub repository](https://github.com/Deskime/Windows_12/issues) with detailed information about your problem, including the error message and a screenshot.
+   For further assistance, please create an issue on the [GitHub repository](https://github.com/Deskime/Windows-12/issues) with detailed information about your problem, including the error message and a screenshot.
 
 ---
 
