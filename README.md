@@ -77,7 +77,7 @@ Finally, reboot your computer or restart `explorer.exe` from Task Manager to see
 
 ## ✔ Additional tools
 
-[![Deskime Cusromization App](https://github-readme-stats.vercel.app/api/pin/?username=deskime&repo=Deskime_App)](https://github.com/Deskime/Deskime_App)
+[![Deskime Cusromization App](https://github-readme-stats.vercel.app/api/pin/?username=deskime&repo=Deskime_App&show_owner&theme=radical)](https://github.com/Deskime/Deskime_App)
 - [ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts)
 - [WindHawk](https://windhawk.net/)
 - [StartAllBack]() or [Explorer Patcher]()
