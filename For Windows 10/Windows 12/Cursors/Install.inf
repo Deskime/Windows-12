@@ -57,7 +57,7 @@ HKLM,"SOFTWARE\Microsoft\Windows\CurrentVersion\Runonce\Setup\","",,"rundll32.ex
 [Strings]
 INF_Provider    = "JepriCreations"
 CUR_DIR         = "Cursors\W11 Cursor Dark Free"
-SCHEME_NAME     = "W11 Cursor Dark Free by Jepri Creations"
+SCHEME_NAME     = "W11 Cursor Dark Free by Jepri Creationss"
 arrow		    = "arrow.cur"
 help		    = "help.cur"
 appstarting		= "appstarting.ani"
