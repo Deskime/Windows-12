@@ -1,8 +1,8 @@
-; Windows 12 Theme by Deskime (Centered Taskbar for Windows 10)
+; Windows 12 Theme by Deskime
 
 [Theme]
-; Windows 7 - IDS_THEME_DISPLAYNAME_Windows 12 Centered Taskbar
-DisplayName=Windows 12 Centered Taskbar
+; Windows 7 - IDS_THEME_DISPLAYNAME_Windows 12 Sweet
+DisplayName=Windows 12 Regular
 SetLogonBackground=0
 
 ; This PC
@@ -50,7 +50,7 @@ WallpaperStyle=10
 Pattern=
 
 [VisualStyles]
-Path=%SystemRoot%\Resources\Themes\Windows 12\Windows 12-Center.msstyles
+Path=%SystemRoot%\Resources\Themes\Windows 12\Windows 12-Sweet.msstyles
 ColorStyle=NormalColor
 Size=NormalSize
 AutoColorization=0

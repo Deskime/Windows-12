@@ -13,7 +13,7 @@
 
 ----
 
-## ✨ Features
+## ✨ Themes and Icons
 
 ![Features](./features.png)
 
@@ -21,35 +21,19 @@
 
 ## 📋 Setup
 
-1. ⭐ Star and `clone` or download this repository
+1. ⭐ Star and `clone` or download this repository.
 <br><br>
 2. **Patch** your system using [SecureUXTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?lang=en)
 <br><br>
 3. Apply the below configuration to [OldNewExplorer](https://msfn.org/board/topic/170375-oldnewexplorer-119/) if you are using it. (Recommended, but optional)<br><br>![OldNewExplorerCfg](./OldNewExplorerCfg.png)
 <br><br>
-4. Move all the contents in the folder respective to your OS Version (For Windows 10/ For Windows 11) to `C:\Windows\Resources\Themes`
+4. Move all the contents of the folder `ThemePack` to `C:\Windows\Resources\Themes`
 <br><br>
-5. Run `icon.reg` in Registry Editor to apply the icon pack.
-
-### For Windows 10
-- 1. **With Regular Taskbar**<br>
-  Run the file `Windows 12-Regular.theme` and wait. After 15-20 seconds, you should see your computer looks change.<br>Finally, reboot your computer or restart `explorer.exe` from Task Manager to see the icons changed.
+5. Run `icon.reg` that was in the `ThemePack` folder to apply the icons. Alternatively, you can run the `7tsp Linuxfx-11-AIO.7tsp` icon pack from the Icons folder. This pack though is preferred for the `Windows 12-Sweet` Theme. (Credits to niivu)
 <br><br>
-- 2. **With Center Taskbar**<br>
-  - Pin `StartIcon-Win12.exe` as the first app in your taskbar
-  - Right-click on your taskbar , and deselect `Lock the taskbar`
-  - Again right-click on your taskbar, hover on `Toolbars` and click `New toolbar...`
-  - Then navigate to `C:\Windows\Resources\Themes\Windows 12` and you should see a folder with a blank name ` `. Select that folder and add as the toolbar in your taskbar.
-  - Now you should see a double bar `||` on the right half, towards the end of your taskbar. drag it to the left end until all the apps move to it's right. (the start button won't move to the right though.)
-  -  After this, adjust the other side to match your taskbar centering.
-  - Then, right-click on your taskbar and enable `Lock the taskbar`
-  - After that, run the file `Windows 12-Center.theme` and wait. After 15-20 seconds, you should see your computer looks change.
-  - Finally, reboot your computer or restart `explorer.exe` from Task Manager to see the icons changed.
+6. Run the file `Windows 12.theme` and wait. After 15-20 seconds, you should see your computer looks change.
 <br><br>
-### For Windows 11
-Run the file `Windows 12.theme` and wait. After 15-20 seconds, you should see your computer looks change.
-<br><br>
-Finally, reboot your computer or restart `explorer.exe` from Task Manager to see the icons changed.
+7. Finally, reboot your computer to see the final result.
 
 ---
 
@@ -57,6 +41,7 @@ Finally, reboot your computer or restart `explorer.exe` from Task Manager to see
 - [Windows 12 Background - Addy Visuals](https://www.youtube.com/watch?v=1k1vz9PD7O4&ab_channel=AddyVisuals)
 - [Windows 12 Start Icon - Icons8](https://icons8.com/icon/srWpsuip5wG0/windows-11)
 - [Windows 12 Icon Pack - KDr3w](https://www.deviantart.com/kdr3w/art/Matte-758699852)
+- [Windows 12 Sweet Icon Pack - niivu](https://www.deviantart.com/niivu)
 - [Windows 12 Cursors - JepriCreations](https://www.deviantart.com/jepricreations/art/Windows-11-Cursors-Concept-886489356)
 - [Base Theme - Goon Theme by niivu]()
    <br><br>
@@ -72,21 +57,22 @@ Finally, reboot your computer or restart `explorer.exe` from Task Manager to see
 - Verify that all the files are put into the `Themes` folder.
 <br><br>
    For further assistance, please create an issue on the [GitHub repository](https://github.com/Deskime/Windows-12/issues) with detailed information about your problem, including the error message and a screenshot.
+<br><br>
+- If you have any issues and want to recover back to the default theme, check out [Windows 12 Recovery](https://github.com/Deskime/Windows-12-Recovery).
 
 ---
 
 ## ✔ Additional tools
 
-[![Deskime Cusromization App](https://github-readme-stats.vercel.app/api/pin/?username=deskime&repo=Deskime_App&show_owner&theme=radical)](https://github.com/Deskime/Deskime_App)
+[![Deskime Customization App](https://github-readme-stats.vercel.app/api/pin/?username=deskime&repo=Deskime_App&show_owner&theme=radical)](https://github.com/Deskime/Deskime_App)
 - [ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts)
 - [WindHawk](https://windhawk.net/)
 - [StartAllBack]() or [Explorer Patcher]()
-- [OldNewExplorer](https://msfn.org/board/topic/170375-oldnewexplorer-119/)
-- [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone)
-- [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica)
 - [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
 - [Writing Tools](https://github.com/theJayTea/WritingTools/)
 - [Rainmeter](https://www.rainmeter.net/)
+<br><br>
+Check out the [Deskime Customization App](https://github.com/Deskime/Deskime_App) to apply a desktop time widget, a search/command bar, a video/website wallpaper code, and even a Windows Dock that replaces the taskbar -- all written with Python.
  
 ---
 
